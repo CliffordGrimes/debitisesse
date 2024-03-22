@@ -1,0 +1,42 @@
+{
+  "name": "debitisesse",
+  "version": "1.0.0",
+  "description": "browserify v2 transform to compile JavaScript.next (ES6) to JavaScript.current (ES5) on the fly.",
+  "main": "es6ify.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CliffordGrimes/debitisesse.git"
+  },
+  "dependencies": {
+    "convert-source-map": "~0.2.5",
+    "through": "~2.2.7",
+    "traceur": "~0.0.3"
+  },
+  "devDependencies": {
+    "browserify": "~2.7.2",
+    "mold-source-map": "~0.2.0",
+    "tap": "~0.4.0",
+    "proxyquire": "~0.4.0"
+  },
+  "keywords": [
+    "traceur",
+    "repudiandae",
+    "ut",
+    "veritatis",
+    "at",
+    "nihil",
+    "plugin",
+    "transform"
+  ],
+  "author": "AnnettaLehner",
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.6"
+  },
+  "bugs": {
+    "url": "https://github.com/CliffordGrimes/debitisesse.git/issues"
+  }
+}
